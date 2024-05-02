@@ -1,2 +1,2 @@
-# repo-remoto
-Descrição inserida no repositorio remoto antes do clone
+# Rrepositório Local
+Descrição inserida no repositorio local depois do clone
